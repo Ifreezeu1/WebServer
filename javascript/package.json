@@ -1,0 +1,20 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "js for game api",
+  "main": "gamerequest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Muhammed Mehmood",
+  "license": "ISC",
+  "dependencies": {
+    "igdb-api-node": "^5.0.0",
+    "node-modules": "^1.0.1",
+    "tmi.js": "^1.5.0",
+    "type": "module"
+  }
+}
